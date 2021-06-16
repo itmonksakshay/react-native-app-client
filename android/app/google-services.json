@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98982582244",
+    "project_id": "rithlaundry-152c5",
+    "storage_bucket": "rithlaundry-152c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98982582244:android:e7a88847787087499859f1",
+        "android_client_info": {
+          "package_name": "com.Carpetandpillowlaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98982582244-mc5fcehttrkdj3q7e13fh4mc2ov70ine.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Carpetandpillowlaundry",
+            "certificate_hash": "eaa50f5f2a80d2c7d62ef725f37e0b8ceafea6f1"
+          }
+        },
+        {
+          "client_id": "98982582244-53rk2fus2rpq5069j516j1vd8dd3676c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrDjhwGJ8eOgejuiRrAHYcI0kuR28IeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98982582244-53rk2fus2rpq5069j516j1vd8dd3676c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

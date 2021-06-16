@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>98982582244-05detfc7clk0vrtt4b0sl44h7ae07erb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.98982582244-05detfc7clk0vrtt4b0sl44h7ae07erb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>98982582244-mc5fcehttrkdj3q7e13fh4mc2ov70ine.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDy4mESzkf54l-eeQoJI4lnc9Sny0DxMrE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>98982582244</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.Carpetandpillowlaundry</string>
+	<key>PROJECT_ID</key>
+	<string>rithlaundry-152c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rithlaundry-152c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:98982582244:ios:4bfac8e6678868c79859f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://rithlaundry-152c5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

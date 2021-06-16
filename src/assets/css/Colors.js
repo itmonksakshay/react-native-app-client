@@ -1,0 +1,10 @@
+export const theme_bg = '#EFCA18';
+export const theme_fg = '#7f1331';
+export const theme_bg_two = '#EFCA18';
+export const theme_fg_two = '#7f1331';
+export const theme_bg_three = 'white';
+export const theme_fg_three = '#7f1331';
+export const theme_fg_four = '#a4a9b7';
+export const promo_color = '#4dad4a';
+export const black_layer = 'rgba(0, 0, 0, 0.5)';
+export const timer_color = '#6B9FF6';
